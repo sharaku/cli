@@ -1,0 +1,7 @@
+# コマンドプロンプト
+readonly DEF_CLIPROMPT=">"
+
+# コマンドのベースパス
+readonly DEF_COMMAND_PATH=./command/
+
+
