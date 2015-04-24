@@ -2,6 +2,6 @@
 readonly DEF_CLIPROMPT=">"
 
 # コマンドのベースパス
-readonly DEF_COMMAND_PATH=./command/
+export readonly DEF_COMMAND_PATH=${DEF_CLI_PATH}/command/
 
 
